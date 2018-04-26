@@ -17,6 +17,7 @@ function myMain() {
   
   var concat = yourphnumber+mobilegateway
   
+  //calling to the function
   
   myFunction(concat);
 
